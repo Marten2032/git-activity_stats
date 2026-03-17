@@ -23660,6 +23660,42 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/17739234226",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 14,
+      "name": "Strength Training / Push",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17755406740",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 15,
+      "name": "Strength Training / Push",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17755406752",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 16,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17755407599",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 14,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17755407671",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38098,6 +38134,16 @@
           "distance": 101354.2,
           "elevation_gain": 1616.0,
           "moving_time": 18812.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17755407599",
+            "17755407671"
+          ],
+          "count": 2,
+          "distance": 7627.9,
+          "elevation_gain": 38.7,
+          "moving_time": 1585.0
         }
       },
       "Run": {
@@ -39150,6 +39196,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2901.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17755406740",
+            "17755406752"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3683.0
         }
       },
       "Workout": {
@@ -39635,7 +39691,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T16:02:41.038114+00:00",
+  "generated_at": "2026-03-17T16:02:09.415348+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
