@@ -34292,5 +34292,18 @@
     "start_date_local": "2026-03-18T15:44:56Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17775757109",
+    "moving_time": 1682.0,
+    "name": "Flexibility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-18T21:37:41Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

@@ -23741,6 +23741,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/17767731582",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 21,
+      "name": "Flexibility",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17775757109",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39760,12 +39769,13 @@
         },
         "2026-03-18": {
           "activity_ids": [
-            "17767731582"
+            "17767731582",
+            "17775757109"
           ],
-          "count": 1,
+          "count": 2,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 1316.0
+          "moving_time": 2998.0
         }
       },
       "Yoga": {
@@ -39781,7 +39791,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T16:06:21.602177+00:00",
+  "generated_at": "2026-03-19T15:51:22.786471+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
