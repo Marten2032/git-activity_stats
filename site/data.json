@@ -23759,6 +23759,42 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17782692516",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 11,
+      "name": "Wesendorf",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17805890437",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 14,
+      "name": "Wesendorf / Hankensbuttel",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17805890940",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 0,
+      "name": "Hankensbuttel / Wesendorf",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17809494508",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 13,
+      "name": "Wesendorf",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17815873345",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38207,6 +38243,24 @@
           "distance": 7627.9,
           "elevation_gain": 38.7,
           "moving_time": 1585.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17805890940"
+          ],
+          "count": 1,
+          "distance": 17110.3,
+          "elevation_gain": 81.1,
+          "moving_time": 3625.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17809494508"
+          ],
+          "count": 1,
+          "distance": 25012.6,
+          "elevation_gain": 58.7,
+          "moving_time": 4516.0
         }
       },
       "Run": {
@@ -39013,6 +39067,24 @@
           "distance": 2006.5,
           "elevation_gain": 4.6,
           "moving_time": 1340.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17805890437"
+          ],
+          "count": 1,
+          "distance": 2820.7,
+          "elevation_gain": 4.7,
+          "moving_time": 1899.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17815873345"
+          ],
+          "count": 1,
+          "distance": 4780.3,
+          "elevation_gain": 20.0,
+          "moving_time": 3132.0
         }
       },
       "WeightTraining": {
@@ -39809,7 +39881,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:21:57.104986+00:00",
+  "generated_at": "2026-03-22T15:22:06.061559+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
