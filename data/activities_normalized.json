@@ -34396,5 +34396,18 @@
     "start_date_local": "2026-03-23T22:26:42Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 31958.0,
+    "elevation_gain": 198.0,
+    "id": "17844204354",
+    "moving_time": 5301.0,
+    "name": "Recovery ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-24T17:44:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
