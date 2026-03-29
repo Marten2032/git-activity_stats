@@ -34487,5 +34487,57 @@
     "start_date_local": "2026-03-27T22:21:33Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3689.8,
+    "elevation_gain": 38.7,
+    "id": "17891366811",
+    "moving_time": 757.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T17:22:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17891771122",
+    "moving_time": 2628.0,
+    "name": "Strength Training / Pull",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-28T17:46:59Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3852.9,
+    "elevation_gain": 2.0,
+    "id": "17892025601",
+    "moving_time": 846.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T18:49:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17896886268",
+    "moving_time": 1677.0,
+    "name": "Flexibility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-28T22:08:55Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
