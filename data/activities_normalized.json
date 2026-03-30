@@ -34539,5 +34539,31 @@
     "start_date_local": "2026-03-28T22:08:55Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17908557563",
+    "moving_time": 608.0,
+    "name": "Flexibility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-29T21:36:26Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-30",
+    "distance": 4856.9,
+    "elevation_gain": 0.0,
+    "id": "17911786601",
+    "moving_time": 1011.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-30T12:59:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
