@@ -34682,5 +34682,70 @@
     "start_date_local": "2026-04-01T16:30:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17939477669",
+    "moving_time": 383.0,
+    "name": "Flexibility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-01T17:34:07Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 993.3,
+    "elevation_gain": 0.0,
+    "id": "17939493065",
+    "moving_time": 718.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-01T17:19:58Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17948941187",
+    "moving_time": 651.0,
+    "name": "Flexibility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-01T22:50:17Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 2004.4,
+    "elevation_gain": 5.6,
+    "id": "17948941783",
+    "moving_time": 1449.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-02T10:08:39Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 50854.7,
+    "elevation_gain": 285.0,
+    "id": "17950637090",
+    "moving_time": 7506.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T14:14:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
