@@ -34799,5 +34799,31 @@
     "start_date_local": "2026-04-03T16:53:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17974258451",
+    "moving_time": 406.0,
+    "name": "Flexibility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-03T23:09:31Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17976508698",
+    "moving_time": 3103.0,
+    "name": "Strength Training / Pull",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-04T15:41:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

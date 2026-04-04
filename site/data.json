@@ -24092,6 +24092,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17963594779",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 23,
+      "name": "Flexibility",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17974258451",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 15,
+      "name": "Strength Training / Pull",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17976508698",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39831,6 +39849,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2419.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17976508698"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3103.0
         }
       },
       "Workout": {
@@ -40412,6 +40439,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 965.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17974258451"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 406.0
         }
       },
       "Yoga": {
@@ -40427,7 +40463,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:36:34.380208+00:00",
+  "generated_at": "2026-04-04T15:27:36.674283+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
