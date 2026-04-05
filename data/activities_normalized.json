@@ -34825,5 +34825,57 @@
     "start_date_local": "2026-04-04T15:41:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 1349.0,
+    "elevation_gain": 3.2,
+    "id": "17980124911",
+    "moving_time": 836.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-04T19:23:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 1447.2,
+    "elevation_gain": 0.0,
+    "id": "17980124914",
+    "moving_time": 979.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-04T22:47:51Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 2007.0,
+    "elevation_gain": 4.4,
+    "id": "17988513339",
+    "moving_time": 806.0,
+    "name": "G\u00f6ttingen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T16:12:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 1001.1,
+    "elevation_gain": 0.0,
+    "id": "17988513354",
+    "moving_time": 647.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-05T16:01:48Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
