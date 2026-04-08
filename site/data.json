@@ -24200,6 +24200,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18010679412",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 17,
+      "name": "4x4 Vo2 max intervals",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18015919400",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 22,
+      "name": "Flexibility",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18022404702",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-08",
+      "hour": 7,
+      "name": "G\u00f6ttingen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18023039948",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38723,6 +38750,15 @@
           "distance": 14183.400000000001,
           "elevation_gain": 78.3,
           "moving_time": 2590.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18015919400"
+          ],
+          "count": 1,
+          "distance": 42576.0,
+          "elevation_gain": 255.0,
+          "moving_time": 6316.0
         }
       },
       "Run": {
@@ -39686,6 +39722,15 @@
           "distance": 2200.5,
           "elevation_gain": 5.6,
           "moving_time": 1620.0
+        },
+        "2026-04-08": {
+          "activity_ids": [
+            "18023039948"
+          ],
+          "count": 1,
+          "distance": 6016.7,
+          "elevation_gain": 44.1,
+          "moving_time": 4007.0
         }
       },
       "WeightTraining": {
@@ -40604,6 +40649,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 406.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18022404702"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1219.0
         }
       },
       "Yoga": {
@@ -40619,7 +40673,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T16:08:15.159002+00:00",
+  "generated_at": "2026-04-08T16:12:29.337469+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
