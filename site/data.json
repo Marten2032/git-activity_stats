@@ -24290,6 +24290,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18053301299",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 23,
+      "name": "Flexibility",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18068016576",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 13,
+      "name": "Wesendorf",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18068016839",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 13,
+      "name": "Wesendorf / Hankensbuttel",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18068017667",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38832,6 +38859,16 @@
           "distance": 8787.2,
           "elevation_gain": 38.0,
           "moving_time": 1745.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18068016839",
+            "18068017667"
+          ],
+          "count": 2,
+          "distance": 40498.8,
+          "elevation_gain": 115.4,
+          "moving_time": 9587.0
         }
       },
       "Run": {
@@ -40768,6 +40805,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 730.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18068016576"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1067.0
         }
       },
       "Yoga": {
@@ -40783,7 +40829,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T15:47:10.551110+00:00",
+  "generated_at": "2026-04-11T15:29:29.471388+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",

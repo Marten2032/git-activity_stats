@@ -35085,5 +35085,44 @@
     "start_date_local": "2026-04-10T12:24:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18068016576",
+    "moving_time": 1067.0,
+    "name": "Flexibility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-10T23:19:08Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 37.9,
+    "elevation_gain": 0.0,
+    "id": "18068016839",
+    "moving_time": 83.0,
+    "name": "Wesendorf",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T13:09:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 40460.9,
+    "elevation_gain": 115.4,
+    "id": "18068017667",
+    "moving_time": 9504.0,
+    "name": "Wesendorf / Hankensbuttel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T13:12:57Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
