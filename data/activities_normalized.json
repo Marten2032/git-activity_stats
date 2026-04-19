@@ -35553,5 +35553,31 @@
     "start_date_local": "2026-04-18T13:14:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 1953.4,
+    "elevation_gain": 4.3,
+    "id": "18166680293",
+    "moving_time": 1366.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-18T19:32:55Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 3436.2,
+    "elevation_gain": 2.2,
+    "id": "18166680330",
+    "moving_time": 2719.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-18T14:08:50Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
