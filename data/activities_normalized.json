@@ -35670,5 +35670,44 @@
     "start_date_local": "2026-04-20T15:55:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 1029.4,
+    "elevation_gain": 2.7,
+    "id": "18187214838",
+    "moving_time": 667.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-20T18:23:24Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 10793.5,
+    "elevation_gain": 22.5,
+    "id": "18187214870",
+    "moving_time": 4091.0,
+    "name": "G\u00f6ttingen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T18:35:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18189060877",
+    "moving_time": 1608.0,
+    "name": "Flexibility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-20T20:38:02Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
