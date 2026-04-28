@@ -24857,6 +24857,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18274997352",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 10,
+      "name": "Strength Training / Pull",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18290887086",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 9,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18290887927",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 11,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18290888073",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39514,6 +39541,16 @@
           "distance": 4423.4,
           "elevation_gain": 34.2,
           "moving_time": 903.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18290887927",
+            "18290888073"
+          ],
+          "count": 2,
+          "distance": 5666.3,
+          "elevation_gain": 38.2,
+          "moving_time": 1204.0
         }
       },
       "Run": {
@@ -41006,6 +41043,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3736.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18290887086"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3441.0
         }
       },
       "Workout": {
@@ -41701,7 +41747,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T16:23:47.802669+00:00",
+  "generated_at": "2026-04-28T16:49:04.457118+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
