@@ -36034,5 +36034,83 @@
     "start_date_local": "2026-04-29T14:25:44Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 2055.3,
+    "elevation_gain": 0.0,
+    "id": "18310733472",
+    "moving_time": 491.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-29T16:12:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 2243.9,
+    "elevation_gain": 2.2,
+    "id": "18310733481",
+    "moving_time": 1682.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-29T16:51:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 4359.4,
+    "elevation_gain": 34.3,
+    "id": "18315838981",
+    "moving_time": 833.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T08:17:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 1751.6,
+    "elevation_gain": 15.0,
+    "id": "18316033566",
+    "moving_time": 429.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T10:02:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18317036169",
+    "moving_time": 4158.0,
+    "name": "Strength Training / Push",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-30T10:38:11Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 3671.9,
+    "elevation_gain": 2.2,
+    "id": "18317349515",
+    "moving_time": 712.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T12:30:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
