@@ -36112,5 +36112,31 @@
     "start_date_local": "2026-04-30T12:30:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 1445.1,
+    "elevation_gain": 3.7,
+    "id": "18322796959",
+    "moving_time": 905.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-30T13:47:33Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 31372.1,
+    "elevation_gain": 85.4,
+    "id": "18322797066",
+    "moving_time": 6247.0,
+    "name": "Wesendorf / Dedelstorf",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T18:07:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

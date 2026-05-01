@@ -25001,6 +25001,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18317349515",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 13,
+      "name": "Outdoor Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18322796959",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 18,
+      "name": "Wesendorf / Dedelstorf",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18322797066",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -39687,12 +39705,13 @@
           "activity_ids": [
             "18315838981",
             "18316033566",
-            "18317349515"
+            "18317349515",
+            "18322797066"
           ],
-          "count": 3,
-          "distance": 9782.9,
-          "elevation_gain": 51.5,
-          "moving_time": 1974.0
+          "count": 4,
+          "distance": 41155.0,
+          "elevation_gain": 136.9,
+          "moving_time": 8221.0
         }
       },
       "Run": {
@@ -40820,6 +40839,15 @@
           "distance": 2243.9,
           "elevation_gain": 2.2,
           "moving_time": 1682.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18322796959"
+          ],
+          "count": 1,
+          "distance": 1445.1,
+          "elevation_gain": 3.7,
+          "moving_time": 905.0
         }
       },
       "WeightTraining": {
@@ -41925,7 +41953,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T16:16:05.401249+00:00",
+  "generated_at": "2026-05-01T15:54:00.580979+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
