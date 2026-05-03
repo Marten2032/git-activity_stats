@@ -36242,5 +36242,31 @@
     "start_date_local": "2026-05-01T23:33:37Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18356077416",
+    "moving_time": 382.0,
+    "name": "Water Sports",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-02T15:34:12Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 3636.6,
+    "elevation_gain": 0.0,
+    "id": "18356077530",
+    "moving_time": 5083.0,
+    "name": "Volleyball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Volleyball",
+    "start_date_local": "2026-05-02T15:41:09Z",
+    "type": "Volleyball",
+    "year": 2026
   }
 ]
