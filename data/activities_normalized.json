@@ -36359,5 +36359,70 @@
     "start_date_local": "2026-05-04T16:53:44Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 2024.9,
+    "elevation_gain": 0.0,
+    "id": "18394682558",
+    "moving_time": 6217.0,
+    "name": "Volleyball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Volleyball",
+    "start_date_local": "2026-05-05T20:21:54Z",
+    "type": "Volleyball",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18394682808",
+    "moving_time": 2878.0,
+    "name": "Strength Training / Push",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-05T15:43:41Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 4534.0,
+    "elevation_gain": 34.3,
+    "id": "18396592113",
+    "moving_time": 969.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-06T08:29:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18399821320",
+    "moving_time": 4102.0,
+    "name": "Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-06T15:17:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 1858.2,
+    "elevation_gain": 13.8,
+    "id": "18399821373",
+    "moving_time": 833.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-06T14:52:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
