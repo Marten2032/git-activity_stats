@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T16:45:59.131418+00:00",
+  "generated_at": "2026-05-08T16:11:36.656179+00:00",
   "years": {
     "2022": {
       "Ride": {
@@ -14729,12 +14729,24 @@
         },
         "2026-05-07": {
           "activity_ids": [
-            "18409550847"
+            "18409550847",
+            "18417463494",
+            "18417463495"
           ],
-          "count": 1,
-          "distance": 4411.5,
-          "elevation_gain": 34.2,
-          "moving_time": 897.0
+          "count": 3,
+          "distance": 9933.0,
+          "elevation_gain": 51.10000000000001,
+          "moving_time": 1996.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18423254673",
+            "18425576688"
+          ],
+          "count": 2,
+          "distance": 6227.0,
+          "elevation_gain": 55.7,
+          "moving_time": 1292.0
         }
       },
       "Run": {
@@ -15113,6 +15125,24 @@
           "distance": 2024.9,
           "elevation_gain": 0.0,
           "moving_time": 6217.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18417463432"
+          ],
+          "count": 1,
+          "distance": 4188.5,
+          "elevation_gain": 0.0,
+          "moving_time": 5806.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18427260367"
+          ],
+          "count": 1,
+          "distance": 3397.6,
+          "elevation_gain": 0.0,
+          "moving_time": 5576.0
         }
       },
       "Walk": {
@@ -17064,6 +17094,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 941.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18417463428"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5097.0
         }
       },
       "Yoga": {
