@@ -36361,6 +36361,19 @@
     "year": 2026
   },
   {
+    "date": "2026-05-04",
+    "distance": 4352.0,
+    "elevation_gain": 33.8,
+    "id": "18427809135",
+    "moving_time": 791.0,
+    "name": "Outdoor Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-04T07:59:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-05-05",
     "distance": 2024.9,
     "elevation_gain": 0.0,
@@ -36553,6 +36566,32 @@
     "raw_type": "Volleyball",
     "start_date_local": "2026-05-08T15:58:20Z",
     "type": "Volleyball",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 4294.2,
+    "elevation_gain": 2.2,
+    "id": "18427806901",
+    "moving_time": 1651.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T18:04:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 4421.3,
+    "elevation_gain": 34.1,
+    "id": "18438963667",
+    "moving_time": 1004.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T14:13:53Z",
+    "type": "Ride",
     "year": 2026
   }
 ]
