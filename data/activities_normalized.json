@@ -36593,5 +36593,57 @@
     "start_date_local": "2026-05-09T14:13:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18447558794",
+    "moving_time": 11760.0,
+    "name": "Cardio Dance",
+    "raw_activity_type": "Workout",
+    "raw_type": "Dance",
+    "start_date_local": "2026-05-09T23:34:16Z",
+    "type": "Dance",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 2175.0,
+    "elevation_gain": 2.2,
+    "id": "18447558805",
+    "moving_time": 792.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T17:06:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 2195.3,
+    "elevation_gain": 6.1,
+    "id": "18447818382",
+    "moving_time": 1573.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-09T22:27:09Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 1933.7,
+    "elevation_gain": 0.0,
+    "id": "18447818383",
+    "moving_time": 1495.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-10T02:50:35Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
