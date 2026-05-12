@@ -25370,6 +25370,42 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18447818383",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 16,
+      "name": "Outdoor Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18474725769",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 16,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18474801788",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 12,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18474801778",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 0,
+      "name": "Outdoor Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18474801801",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40142,6 +40178,24 @@
           "distance": 6596.3,
           "elevation_gain": 36.300000000000004,
           "moving_time": 1796.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18474801788"
+          ],
+          "count": 1,
+          "distance": 4583.6,
+          "elevation_gain": 0.0,
+          "moving_time": 1814.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18474801778"
+          ],
+          "count": 1,
+          "distance": 4357.0,
+          "elevation_gain": 31.9,
+          "moving_time": 918.0
         }
       },
       "Run": {
@@ -41353,6 +41407,24 @@
           "distance": 1933.7,
           "elevation_gain": 0.0,
           "moving_time": 1495.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18474725769"
+          ],
+          "count": 1,
+          "distance": 224.8,
+          "elevation_gain": 0.0,
+          "moving_time": 79.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18474801801"
+          ],
+          "count": 1,
+          "distance": 2706.7,
+          "elevation_gain": 0.0,
+          "moving_time": 2109.0
         }
       },
       "WeightTraining": {
@@ -42531,7 +42603,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:22:20.063655+00:00",
+  "generated_at": "2026-05-12T17:07:27.434137+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
