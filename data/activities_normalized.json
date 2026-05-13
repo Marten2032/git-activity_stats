@@ -36582,6 +36582,19 @@
     "year": 2026
   },
   {
+    "date": "2026-05-08",
+    "distance": 2260.4,
+    "elevation_gain": 4.6,
+    "id": "18490250713",
+    "moving_time": 1747.0,
+    "name": "Outdoor Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-08T19:27:17Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
     "date": "2026-05-09",
     "distance": 4421.3,
     "elevation_gain": 34.1,
@@ -36673,6 +36686,19 @@
     "year": 2026
   },
   {
+    "date": "2026-05-11",
+    "distance": 4432.5,
+    "elevation_gain": 34.1,
+    "id": "18490248744",
+    "moving_time": 1010.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-11T09:59:45Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-05-12",
     "distance": 4357.0,
     "elevation_gain": 31.9,
@@ -36696,6 +36722,84 @@
     "raw_type": "Walk",
     "start_date_local": "2026-05-12T00:15:43Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 1905.6,
+    "elevation_gain": 20.4,
+    "id": "18487472247",
+    "moving_time": 444.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-12T19:50:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 3310.4,
+    "elevation_gain": 0.0,
+    "id": "18487472316",
+    "moving_time": 5624.0,
+    "name": "Volleyball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Volleyball",
+    "start_date_local": "2026-05-12T20:31:31Z",
+    "type": "Volleyball",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 4103.1,
+    "elevation_gain": 2.2,
+    "id": "18487472323",
+    "moving_time": 983.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-12T22:27:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 4377.6,
+    "elevation_gain": 34.4,
+    "id": "18487472176",
+    "moving_time": 922.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T09:41:15Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 1981.4,
+    "elevation_gain": 21.7,
+    "id": "18490240256",
+    "moving_time": 526.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T14:11:46Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18491249803",
+    "moving_time": 5361.0,
+    "name": "Upper Body Stuff",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-13T14:28:57Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]

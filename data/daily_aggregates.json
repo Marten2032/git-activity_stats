@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T17:07:27.406431+00:00",
+  "generated_at": "2026-05-13T17:14:00.553267+00:00",
   "years": {
     "2022": {
       "Ride": {
@@ -14773,21 +14773,34 @@
         },
         "2026-05-11": {
           "activity_ids": [
-            "18474801788"
+            "18474801788",
+            "18490248744"
           ],
-          "count": 1,
-          "distance": 4583.6,
-          "elevation_gain": 0.0,
-          "moving_time": 1814.0
+          "count": 2,
+          "distance": 9016.1,
+          "elevation_gain": 34.1,
+          "moving_time": 2824.0
         },
         "2026-05-12": {
           "activity_ids": [
-            "18474801778"
+            "18474801778",
+            "18487472247",
+            "18487472323"
           ],
-          "count": 1,
-          "distance": 4357.0,
-          "elevation_gain": 31.9,
-          "moving_time": 918.0
+          "count": 3,
+          "distance": 10365.7,
+          "elevation_gain": 54.5,
+          "moving_time": 2345.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18487472176",
+            "18490240256"
+          ],
+          "count": 2,
+          "distance": 6359.0,
+          "elevation_gain": 56.099999999999994,
+          "moving_time": 1448.0
         }
       },
       "Run": {
@@ -15184,6 +15197,15 @@
           "distance": 3397.6,
           "elevation_gain": 0.0,
           "moving_time": 5576.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18487472316"
+          ],
+          "count": 1,
+          "distance": 3310.4,
+          "elevation_gain": 0.0,
+          "moving_time": 5624.0
         }
       },
       "Walk": {
@@ -15982,6 +16004,15 @@
           "elevation_gain": 0.0,
           "moving_time": 2506.0
         },
+        "2026-05-08": {
+          "activity_ids": [
+            "18490250713"
+          ],
+          "count": 1,
+          "distance": 2260.4,
+          "elevation_gain": 4.6,
+          "moving_time": 1747.0
+        },
         "2026-05-09": {
           "activity_ids": [
             "18447818382"
@@ -16463,6 +16494,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4102.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18491249803"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5361.0
         }
       },
       "Workout": {
