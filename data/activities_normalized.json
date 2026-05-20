@@ -37061,5 +37061,18 @@
     "start_date_local": "2026-05-19T15:56:36Z",
     "type": "Volleyball",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 4343.4,
+    "elevation_gain": 34.1,
+    "id": "18578478932",
+    "moving_time": 858.0,
+    "name": "Outdoor Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-20T09:58:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

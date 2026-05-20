@@ -25658,6 +25658,15 @@
       "type": "Volleyball",
       "url": "https://www.strava.com/activities/18571213792",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 9,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18578478932",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40503,6 +40512,15 @@
           "distance": 1573.7,
           "elevation_gain": 18.2,
           "moving_time": 375.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18578478932"
+          ],
+          "count": 1,
+          "distance": 4343.4,
+          "elevation_gain": 34.1,
+          "moving_time": 858.0
         }
       },
       "Run": {
@@ -43019,7 +43037,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:36:35.606081+00:00",
+  "generated_at": "2026-05-20T17:52:30.747677+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
