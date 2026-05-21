@@ -25667,6 +25667,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18578478932",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 21,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18586881018",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40515,12 +40524,13 @@
         },
         "2026-05-20": {
           "activity_ids": [
-            "18578478932"
+            "18578478932",
+            "18586881018"
           ],
-          "count": 1,
-          "distance": 4343.4,
-          "elevation_gain": 34.1,
-          "moving_time": 858.0
+          "count": 2,
+          "distance": 8631.3,
+          "elevation_gain": 36.300000000000004,
+          "moving_time": 1415.0
         }
       },
       "Run": {
@@ -43037,7 +43047,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:52:30.747677+00:00",
+  "generated_at": "2026-05-21T17:29:24.686045+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
