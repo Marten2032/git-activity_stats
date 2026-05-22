@@ -25676,6 +25676,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18586881018",
       "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 17,
+      "name": "Strength Training / Push",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18600676514",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 18,
+      "name": "Volleyball",
+      "subtype": "Volleyball",
+      "type": "Volleyball",
+      "url": "https://www.strava.com/activities/18604912077",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40963,6 +40981,15 @@
           "distance": 6851.8,
           "elevation_gain": 0.0,
           "moving_time": 10819.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18604912077"
+          ],
+          "count": 1,
+          "distance": 3401.5,
+          "elevation_gain": 0.0,
+          "moving_time": 7233.0
         }
       },
       "Walk": {
@@ -42306,6 +42333,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5361.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18600676514"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2636.0
         }
       },
       "Workout": {
@@ -43047,7 +43083,7 @@
       }
     }
   },
-  "generated_at": "2026-05-21T17:29:24.686045+00:00",
+  "generated_at": "2026-05-22T17:05:28.178238+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",

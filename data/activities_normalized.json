@@ -37087,5 +37087,31 @@
     "start_date_local": "2026-05-20T21:32:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18600676514",
+    "moving_time": 2636.0,
+    "name": "Strength Training / Push",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-21T17:33:58Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 3401.5,
+    "elevation_gain": 0.0,
+    "id": "18604912077",
+    "moving_time": 7233.0,
+    "name": "Volleyball",
+    "raw_activity_type": "Workout",
+    "raw_type": "Volleyball",
+    "start_date_local": "2026-05-21T18:57:39Z",
+    "type": "Volleyball",
+    "year": 2026
   }
 ]
