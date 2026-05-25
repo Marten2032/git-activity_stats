@@ -37113,5 +37113,57 @@
     "start_date_local": "2026-05-21T18:57:39Z",
     "type": "Volleyball",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 3717.4,
+    "elevation_gain": 2.2,
+    "id": "18645022498",
+    "moving_time": 1429.0,
+    "name": "Outdoor Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T21:58:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 8250.9,
+    "elevation_gain": 10.4,
+    "id": "18645024467",
+    "moving_time": 8339.0,
+    "name": "Wesendorf",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-23T16:05:34Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 16888.1,
+    "elevation_gain": 81.7,
+    "id": "18640053606",
+    "moving_time": 3199.0,
+    "name": "Wesendorf / Hankensbuttel",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T15:32:20Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 16842.5,
+    "elevation_gain": 48.2,
+    "id": "18641218655",
+    "moving_time": 3093.0,
+    "name": "Hankensbuttel / Wesendorf",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T23:32:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
