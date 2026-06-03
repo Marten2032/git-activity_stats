@@ -25928,6 +25928,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18752010434",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 14,
+      "name": "G\u00f6ttingen / Rosdorf",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18770670891",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 16,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18771008207",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40865,6 +40883,16 @@
           "distance": 2199.9,
           "elevation_gain": 3.3,
           "moving_time": 499.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18770670891",
+            "18771008207"
+          ],
+          "count": 2,
+          "distance": 5446.799999999999,
+          "elevation_gain": 25.799999999999997,
+          "moving_time": 1090.0
         }
       },
       "Run": {
@@ -43463,7 +43491,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:36:32.143710+00:00",
+  "generated_at": "2026-06-03T18:42:03.901294+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
