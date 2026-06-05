@@ -25955,6 +25955,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18780484852",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 19,
+      "name": "Volleyball",
+      "subtype": "Volleyball",
+      "type": "Volleyball",
+      "url": "https://www.strava.com/activities/18788438935",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 18,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18788439600",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 20,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18788440634",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 11,
+      "name": "Outdoor Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18794198987",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40905,12 +40941,23 @@
         },
         "2026-06-04": {
           "activity_ids": [
-            "18780484852"
+            "18780484852",
+            "18788439600",
+            "18788440634"
+          ],
+          "count": 3,
+          "distance": 9713.5,
+          "elevation_gain": 54.400000000000006,
+          "moving_time": 1972.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18794198987"
           ],
           "count": 1,
-          "distance": 4297.9,
-          "elevation_gain": 34.2,
-          "moving_time": 940.0
+          "distance": 4407.5,
+          "elevation_gain": 35.1,
+          "moving_time": 948.0
         }
       },
       "Run": {
@@ -41380,6 +41427,15 @@
           "distance": 5407.4,
           "elevation_gain": 0.0,
           "moving_time": 7843.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18788438935"
+          ],
+          "count": 1,
+          "distance": 4007.5,
+          "elevation_gain": 0.0,
+          "moving_time": 5616.0
         }
       },
       "Walk": {
@@ -43509,7 +43565,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T17:42:07.385584+00:00",
+  "generated_at": "2026-06-05T17:12:15.720815+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
