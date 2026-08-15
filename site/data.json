@@ -26063,6 +26063,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19711096795",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19753678724",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -41051,6 +41060,15 @@
           "distance": 14730.7,
           "elevation_gain": 46.0,
           "moving_time": 2597.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19753678724"
+          ],
+          "count": 1,
+          "distance": 151557.0,
+          "elevation_gain": 709.0,
+          "moving_time": 26674.0
         }
       },
       "Run": {
@@ -43685,7 +43703,7 @@
       }
     }
   },
-  "generated_at": "2026-08-14T15:45:33.337760+00:00",
+  "generated_at": "2026-08-15T15:15:00.527379+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
