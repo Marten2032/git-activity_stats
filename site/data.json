@@ -26072,6 +26072,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19753678724",
       "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 20,
+      "name": "Evening Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20215264100",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 20,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20215264172",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 8,
+      "name": "Morning Gravel Ride",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/20215270284",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -40092,6 +40119,26 @@
           "moving_time": 11760.0
         }
       },
+      "GravelRide": {
+        "2026-09-11": {
+          "activity_ids": [
+            "20215264100"
+          ],
+          "count": 1,
+          "distance": 2057.0,
+          "elevation_gain": 40.0,
+          "moving_time": 705.0
+        },
+        "2026-09-12": {
+          "activity_ids": [
+            "20215270284"
+          ],
+          "count": 1,
+          "distance": 506150.0,
+          "elevation_gain": 6834.0,
+          "moving_time": 124705.0
+        }
+      },
       "Ride": {
         "2026-01-06": {
           "activity_ids": [
@@ -41069,6 +41116,15 @@
           "distance": 151557.0,
           "elevation_gain": 709.0,
           "moving_time": 26674.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "20215264172"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5.0
         }
       },
       "Run": {
@@ -43703,7 +43759,7 @@
       }
     }
   },
-  "generated_at": "2026-09-16T18:37:13.461178+00:00",
+  "generated_at": "2026-09-17T18:45:09.459952+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",
@@ -43729,6 +43785,10 @@
     "Elliptical": {
       "accent": "#fb5607",
       "label": "Elliptical"
+    },
+    "GravelRide": {
+      "accent": "#00f5d4",
+      "label": "Gravel Ride"
     },
     "Hike": {
       "accent": "#d6ff6b",
@@ -43787,6 +43847,7 @@
     "AlpineSki",
     "Badminton",
     "Elliptical",
+    "GravelRide",
     "Hike",
     "Ride",
     "RockClimbing",

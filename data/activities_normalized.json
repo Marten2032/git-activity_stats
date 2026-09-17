@@ -37659,5 +37659,44 @@
     "start_date_local": "2026-08-15T08:12:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 2057.0,
+    "elevation_gain": 40.0,
+    "id": "20215264100",
+    "moving_time": 705.0,
+    "name": "Evening Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-11T20:05:59Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20215264172",
+    "moving_time": 5.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-11T20:05:35Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 506150.0,
+    "elevation_gain": 6834.0,
+    "id": "20215270284",
+    "moving_time": 124705.0,
+    "name": "Morning Gravel Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-09-12T08:23:18Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
