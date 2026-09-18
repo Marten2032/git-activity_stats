@@ -37698,5 +37698,18 @@
     "start_date_local": "2026-09-12T08:23:18Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 129908.0,
+    "elevation_gain": 0.0,
+    "id": "20219341925",
+    "moving_time": 119328.0,
+    "name": "Outdoor Cycling",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-16T08:23:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
