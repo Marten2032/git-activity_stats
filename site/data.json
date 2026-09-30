@@ -26108,6 +26108,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20219341925",
       "year": 2026
+    },
+    {
+      "date": "2026-09-30",
+      "hour": 8,
+      "name": "G\u00f6ttingen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20394069754",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -41481,6 +41490,15 @@
           "distance": 7752.3,
           "elevation_gain": 26.5,
           "moving_time": 3392.0
+        },
+        "2026-09-30": {
+          "activity_ids": [
+            "20394069754"
+          ],
+          "count": 1,
+          "distance": 5506.4,
+          "elevation_gain": 5.0,
+          "moving_time": 2277.0
         }
       },
       "Swim": {
@@ -43777,7 +43795,7 @@
       }
     }
   },
-  "generated_at": "2026-09-29T19:45:05.319874+00:00",
+  "generated_at": "2026-09-30T19:47:00.413957+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/135525219",
   "repo": "Marten2032/git-activity_stats",

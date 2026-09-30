@@ -37711,5 +37711,18 @@
     "start_date_local": "2026-09-16T08:23:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 5506.4,
+    "elevation_gain": 5.0,
+    "id": "20394069754",
+    "moving_time": 2277.0,
+    "name": "G\u00f6ttingen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-30T08:57:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
